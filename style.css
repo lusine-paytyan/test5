@@ -9,5 +9,13 @@ body{
 }
 .line{
 	background-color: black;
-	height: 4px;
+	height: 5px;
+}
+header{
+	background-color: red;
+	height: 200px;
+}
+footer{
+	background-color: orange;
+	height: 200px;
 }
