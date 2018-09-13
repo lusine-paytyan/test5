@@ -23,3 +23,10 @@ footer{
 	background-color: orange;
 	height: 200px;
 }
+h1{
+	font-size: 150px;
+	text-align: center;
+	color: black;
+	font-family: vivaldi;
+	margin-top: 50px;
+}
